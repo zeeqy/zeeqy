@@ -12,7 +12,7 @@ I like turning messy financial data into tools people actually use.
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**FinSight AI**](https://github.com/zeeqy/finsight-ai) | Final-year project: AI-powered personal finance app with spending anomaly detection, an AI financial advisor, loan default risk and stock sentiment analysis | React · Node.js · Python ML · MySQL |
+| [**FinSight AI**](https://github.com/zeeqy/finsight-ai) | Final-year project: AI-powered personal finance app for Malaysians. Reads real bank statements, categorises spending with ML, flags anomalies, predicts loan default risk (XGBoost), plans life goals with a gold price forecast (ARIMA) and scores insurance risk with SHAP explanations | React · Node.js · FastAPI · scikit-learn · MySQL |
 | [**FinTrack**](https://github.com/zeeqy/fintrack) | Full-stack personal finance tracker with budgets, email budget alerts and spending charts | Node.js · Express · MySQL · Chart.js |
 | [**CountCurrent**](https://github.com/zeeqy/CountCurrentICT) | Android electricity bill calculator using TNB tiered tariffs, synced to Firestore | Java · Android · Firebase |
 | [**Baka Bakery**](https://github.com/zeeqy/Bakery-Management-System) | Role-based bakery ordering and management system | PHP · MySQL |
