@@ -10,6 +10,8 @@ I like turning messy financial data into tools people actually use.
 
 ## Featured projects
 
+[![FinSight AI home dashboard](https://raw.githubusercontent.com/zeeqy/finsight-ai/main/docs/screenshots/home.jpg)](https://github.com/zeeqy/finsight-ai)
+
 | Project | What it is | Stack |
 |---|---|---|
 | [**FinSight AI**](https://github.com/zeeqy/finsight-ai) | Final-year project: AI-powered personal finance app for Malaysians. Reads real bank statements, categorises spending with ML, flags anomalies, predicts loan default risk (XGBoost), plans life goals with a gold price forecast (ARIMA) and scores insurance risk with SHAP explanations | React · Node.js · FastAPI · scikit-learn · MySQL |
